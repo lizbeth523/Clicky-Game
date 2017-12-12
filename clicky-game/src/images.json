@@ -1,0 +1,62 @@
+[
+	{
+		"id": 0,
+		"image": "https://vignette.wikia.nocookie.net/en.futurama/images/f/f2/PhilipJ.Fry.png/revision/latest/window-crop/width/130/x-offset/0/y-offset/5/window-width/232/window-height/205?cb=20110916120042",
+		"clicked": false
+	},
+	{
+		"id": 1,
+		"image": "https://vignette.wikia.nocookie.net/en.futurama/images/4/4e/Farnsworth.png/revision/latest/window-crop/width/130/x-offset/0/y-offset/5/window-width/248/window-height/219?cb=20110710094500",
+		"clicked": false
+	},
+	{
+		"id": 2,
+		"image": "https://vignette.wikia.nocookie.net/en.futurama/images/d/d4/Turanga_Leela.png/revision/latest/window-crop/width/130/x-offset/0/y-offset/7/window-width/360/window-height/318?cb=20150218013044",
+		"clicked": false
+	},
+	{
+		"id": 3,
+		"image": "https://vignette.wikia.nocookie.net/en.futurama/images/5/5b/Santa.png/revision/latest/window-crop/width/130/x-offset/0/y-offset/4/window-width/228/window-height/202?cb=20100527184531",
+		"clicked": false
+	},
+	{
+		"id": 4,
+		"image": "https://vignette.wikia.nocookie.net/en.futurama/images/4/45/Dr._John_A._Zoidberg.png/revision/latest/window-crop/width/130/x-offset/0/y-offset/7/window-width/360/window-height/318?cb=20101014052403",
+		"clicked": false
+	},
+	{
+		"id": 5,
+		"image": "https://vignette.wikia.nocookie.net/en.futurama/images/4/43/Bender.png/revision/latest/window-crop/width/130/x-offset/0/y-offset/8/window-width/485/window-height/429?cb=20150206072725",
+		"clicked": false
+	},
+	{
+		"id": 6,
+		"image": "https://vignette.wikia.nocookie.net/en.futurama/images/4/4d/Amy_futurama.jpg/revision/latest/window-crop/width/130/x-offset/0/y-offset/5/window-width/309/window-height/273?cb=20121112224848",
+		"clicked": false
+	},
+	{
+		"id": 7,
+		"image": "https://vignette.wikia.nocookie.net/en.futurama/images/a/a9/Hedonismbot_2-4-.jpg/revision/latest/window-crop/width/130/x-offset/40/y-offset/0/window-width/436/window-height/385?cb=20130704001943",
+		"clicked": false
+	},
+	{
+		"id": 8,
+		"image": "https://vignette.wikia.nocookie.net/en.futurama/images/b/b3/Calculon-2.JPG/revision/latest/window-crop/width/130/x-offset/0/y-offset/9/window-width/788/window-height/697?cb=20090604015557",
+		"clicked": false
+	},
+	{
+		"id": 9,
+		"image": "https://vignette.wikia.nocookie.net/en.futurama/images/d/de/Bend_her.jpg/revision/latest/window-crop/width/130/x-offset/50/y-offset/0/window-width/544/window-height/480?cb=20081013190509",
+		"clicked": false
+	},
+	{
+		"id": 10,
+		"image": "https://vignette.wikia.nocookie.net/en.futurama/images/0/0b/Hypnotoad.gif/revision/latest/window-crop/width/130/x-offset/25/y-offset/0/window-width/134/window-height/118?cb=20120516174032",
+		"clicked": false
+	},
+	{
+		"id": 11,
+		"image": "https://vignette.wikia.nocookie.net/en.futurama/images/2/26/Lord_Nibbler.png/revision/latest/window-crop/width/130/x-offset/0/y-offset/7/window-width/360/window-height/318?cb=20101013083936",
+		"clicked": false
+	}
+]
